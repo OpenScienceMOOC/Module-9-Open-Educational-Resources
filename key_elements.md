@@ -102,6 +102,8 @@
 
 * [Open pathways to student success: Academic library partnerships for Open Educational Resource and affordable content creation adoption](https://www.sciencedirect.com/science/article/pii/S0099133316301409) (Salem Jr., 2017).
 
+* [Barriers, incentives, and benefits of the open educational resources (OER) movements: An exploration into instructor perspectives](https://firstmonday.org/ojs/index.php/fm/article/view/9172) (Henderson and Ostashewski, 2018).
+
 **Key posts**
 
 * [Foundations for OER Strategy Development](http://www.oerstrategy.org/home/read-the-doc/) (Allen et al., 2015).
