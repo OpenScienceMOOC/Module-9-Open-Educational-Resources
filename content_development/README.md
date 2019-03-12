@@ -13,7 +13,8 @@ Open Educational Resources (OERs) are freely accessible, openly licensed materia
 1. The researcher will be able to either identify relevant places where their research can be integrated into Wikipedia, or integrate it themselves if they are a user.
 
 ## Development team
-TBC
+- [Jo Havemann](https://twitter.com/johave), #ResearchinAfrica Highlighter
+…
 
 ## Key documents <a name="Key documents"></a>
 
