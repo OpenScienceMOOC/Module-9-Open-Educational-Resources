@@ -14,7 +14,8 @@ Open Educational Resources (OERs) are freely accessible, openly licensed materia
 
 ## Development team
 - [Jo Havemann](https://twitter.com/johave), #ResearchinAfrica Highlighter
-- ...
+- [Tobias Steiner](https://twitter.com/cmplxtv_studies)
+- …
 
 ## Key documents <a name="Key documents"></a>
 
