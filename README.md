@@ -1,4 +1,4 @@
-# Module 9: Open Education Resources
+# Module 9: Open Educational Resources
 
 ## Rationale <a name="Rationale"></a>
 
