@@ -2,7 +2,7 @@
 
 ## Rationale <a name="Rationale"></a>
 
-Open Educational Resources (OERs) are freely accessible, openly licensed materials for teaching and learning, and represent a paradigm shift compared to traditional methods of education. They are intrinsically related to developments in Open Science, due to the wider implications of access to knowledge in education in our global societies. This module will provide an understanding of the motivations behind OERs and how to develop your own.
+Open Educational Resources (OER) "are teaching, learning and research materials in any medium – digital or otherwise – that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions." ([Hewlett Foundation](https://hewlett.org/strategy/open-educational-resources/); [UNESCO](https://en.unesco.org/themes/building-knowledge-societies/oer)) OER represent a paradigm shift compared to traditional methods of education. They are intrinsically related to developments in Open Science, due to the wider implications of access to knowledge in education in our global societies. This module will provide an understanding of the motivations behind OERs and how to develop your own.
 
 
 
